@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "fullName": "test user",
+      "email": "test1@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "fullName": "Ajithsaiteja",
+      "email": "Ajithsaiteja05@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "id": "dd2d",
+      "fullName": "ajith saiteja",
+      "email": "ajithsaiteja005@gmail.com",
+      "password": "Bhadrachalam@12"
+    },
+    {
+      "id": "4f59",
+      "fullName": "saitejaq",
+      "email": "saiteja00@gmail.com",
+      "password": "Bhadrachalam"
+    }
+  ]
+}
